@@ -1,0 +1,7 @@
+Use A and D to move left and right.
+
+Hit Space to jump.
+
+Use O to launch flames, and P to activate the leaf shield.
+
+If you see a green wall, just burn it.
